@@ -1,0 +1,20 @@
+{
+  "name": "1-rotate",
+  "version": "0.0.0",
+  "authors": [
+    "Laurent Jacquot"
+  ],
+  "description": "Bower publish test with a tiniy library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
